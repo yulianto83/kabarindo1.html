@@ -1,0 +1,23 @@
+<! DOCTYPE html>
+< html >
+< head >
+< title > Layout Hasil Hanya </ title >
+
+<! - Letakkan javascript berikut sebelum tag </head> penutup. ->
+<script>
+  (function() {
+    var cx = 'partner-pub-3302372903160790:8828626687';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+</ head >
+< body >
+<! - Tempatkan tag ini di tempat Anda ingin hasil render render ->
+< gcse: hanya pencarian hasil > </ gcse: hanya pencarian hasil >
+</ body >
+</ html >
